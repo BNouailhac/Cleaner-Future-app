@@ -1,0 +1,37 @@
+name: mobile_ui
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_map: ^0.14.0
+  responsive_framework: ^0.1.5
+  flutter_local_notifications: ^9.2.0
+  mysql1: ^0.19.2
+  mailer: ^5.0.2
+  dbcrypt: ^2.0.0
+  dart_ipify: ^1.1.1
+  app_icon: ^0.1.1
+  location: ^4.2.0
+  flutter_jailbreak_detection: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.16.8
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/csv/CleanerFutureLogo_800X800.png
+    - assets/csv/green_background_500X666.png
+    - assets/csv/nicebackground_700X1048.png
+    - assets/csv/CleanerFutureLogo-text_1022X736.png
