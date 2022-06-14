@@ -4,3 +4,6 @@ Full-stack mobile development in flutter with data management in SQL MongoDB on 
 - Flutter login
 - open street map implementation
 - List page to give sql order to database
+- Full Responsive
+- Obfuscation
+- Unit Test
